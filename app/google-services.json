@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "202406478727",
+    "project_id": "editorx-c3023",
+    "storage_bucket": "editorx-c3023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202406478727:android:eedbc30c117944b7980922",
+        "android_client_info": {
+          "package_name": "com.umang_rathod.editorx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202406478727-6g86k6f392cglc7urb2kjiuicmievi9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKvFbJtsz9BoI1MymB4Ko4rjJTK2rTX4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202406478727-6g86k6f392cglc7urb2kjiuicmievi9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

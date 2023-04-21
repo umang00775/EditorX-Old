@@ -1,0 +1,35 @@
+<resources>
+    <!--    Calendar-->
+    <style name="CustomDatePickerDialogTheme" parent="Theme.MaterialComponents.Light.Dialog">
+        <item name="colorAccent">#FF1493</item>                   <!--header background-->
+        <item name="android:windowBackground">@color/white</item>     <!--calendar background-->
+        <item name="android:colorControlActivated">#FF1493</item> <!--selected day-->
+        <item name="android:textColorPrimary">#000000</item> <!--days of the month-->
+        <item name="android:textColorSecondary">#555555</item>
+        <item name="android:buttonBarPositiveButtonStyle">@style/AppTheme.Alert.Button.Positive</item>
+        <item name="android:buttonBarNegativeButtonStyle">@style/AppTheme.Alert.Button.Negative</item>
+        <item name="android:buttonBarNeutralButtonStyle">@style/AppTheme.Alert.Button.Neutral</item>
+    </style>
+    <style name="AppTheme.Alert.Button.Positive" parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="android:textColor">@color/deep_pink</item>
+    </style>
+    <style name="AppTheme.Alert.Button.Negative" parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="android:textColor">#000</item>
+    </style>
+    <style name="AppTheme.Alert.Button.Neutral" parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="android:textColor">#000</item>
+    </style>
+
+
+
+
+    <style name="deep_pink_action_bar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/deep_pink</item>
+    </style>
+
+
+
+
+
+
+</resources>
